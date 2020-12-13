@@ -1,5 +1,5 @@
 # VacQ-with-ChatBot
-VacQ shows your Vaccine Priority based on various features using a ML model. Our simple Chatbot answers all your health related queries in these troubling times.
+VacQ shows your Vaccine Priority based on various features using a ML model. Our simple Chatbot answers all your health related queries in these troubling times. VacQ can be used by both citizens and the organisation who will provide the vaccine. User can check their priority no. And Admin can check who all have applied and provide them with vaccine in a proper priority.
 <br>
 <br>
 VacQ folder has the flask web app that implements the ML model.<br>
