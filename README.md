@@ -11,3 +11,4 @@ Tejas K Mukherjee<br>
 Shreyash Vardhan<br>
 Kumar Abhijeet<br>
 Krittika Chaturvedi<br>
+Nishchay Jain<br>
