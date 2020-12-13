@@ -11,6 +11,7 @@ UIUX folder has designs for future app
 Contributors: <br><br>
 Tejas K Mukherjee<br>
 Shreyash Vardhan<br>
+Nishchay Jain<br>
 Kumar Abhijeet<br>
 Krittika Chaturvedi<br>
 Nishchay Jain<br>
